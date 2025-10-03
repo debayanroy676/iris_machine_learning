@@ -11,7 +11,7 @@ and 3 labels :
 - Iris-Sentosa
 - Iris-Versicolor
 - Iris-Virginica
-For my convinience, i mentioned the features column as "FE1, FE2, FE3, FE4" and labels' column as "LABEL" in my original data [iris.data](https://archive.ics.uci.edu/static/public/53/iris.zip).
+<br/>For my convinience, i mentioned the features column as "FE1, FE2, FE3, FE4" and labels' column as "LABEL" in my original data [iris.data](https://archive.ics.uci.edu/static/public/53/iris.zip).
 
 ![Dataset](https://github.com/debayanroy676/iris_machine_learning/blob/master/graphs/Featurewise%20histogram.jpg?raw=true)
 
