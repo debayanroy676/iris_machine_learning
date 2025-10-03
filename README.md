@@ -14,7 +14,7 @@ The **iris flower classification** is popularly known as the **Hello World!** of
 - Iris-Sentosa
 - Iris-Versicolor
 - Iris-Virginica
-<br/>For my convinience, i mentioned the features column as "FE1, FE2, FE3, FE4" and labels' column as "LABEL" in my original data [iris.data](https://archive.ics.uci.edu/static/public/53/iris.zip).
+<br/>For my convinience, i mentioned the features column as "FE1, FE2, FE3, FE4" and labels' column as "LABEL" in my original data [iris.data](https://github.com/debayanroy676/iris_machine_learning/blob/master/data/iris.data).
 
 ![Dataset](https://github.com/debayanroy676/iris_machine_learning/blob/master/graphs/Featurewise%20histogram.jpg?raw=true)
 
