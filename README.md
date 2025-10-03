@@ -1,13 +1,16 @@
-[](https://bouqs.com/blog/wp-content/uploads/2021/11/iris-flower-meaning-and-symbolism.jpg)
+![iris](https://bouqs.com/blog/wp-content/uploads/2021/11/iris-flower-meaning-and-symbolism.jpg)
+<br/>
 # Iris Flower Classification
 The **iris flower classification** is popularly known as the **Hello World!** of Machine Learning.. I used the **Iris dataset** provided by **UCI Machine Learning Repository** 
 [Download Iris dataset](https://archive.ics.uci.edu/static/public/53/iris.zip)
-The dataset consists of 4 features : 
+
+<br/>The dataset consists of 4 features : 
 - sepal length
 - sepal width
 - petal length
 - petal width
-and 3 labels : 
+
+<br/>and 3 labels : 
 - Iris-Sentosa
 - Iris-Versicolor
 - Iris-Virginica
@@ -44,7 +47,7 @@ I used KNeighborsClassifier with n_neighbors=3, which finds out 3 nearest labels
 This is illustrated with a very simple diagram below :
 ![KNN](https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/cdp/cf/ul/g/ef/3a/KNN.png)
 
-Another reason for this approach is the tidyness of the iris-dataset that is illustrated with the help of matplotlib.seaborn scatter matrix
-![Scatter Matrix](https://github.com/debayanroy676/iris_machine_learning/blob/master/graphs/Scatter%20Plot.jpg?raw=true)
+Another reason for this approach is the tidyness of the iris-dataset that is illustrated with the help of matplotlib.seaborn scatter matrix </br>
+![Scatter Matrix](https://github.com/debayanroy676/iris_machine_learning/blob/master/graphs/Scatter%20Plot.jpg?raw=true) </br>
 Since we see the data is not much of a mess, I used KNeighborsClassifier. I thought of using RandomForestClassifier, but it is not ideal for a small dataset like the one I am dealing with.
 
