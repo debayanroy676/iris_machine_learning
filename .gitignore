@@ -93,8 +93,5 @@ venv.bak/
 *.joblib
 *.h5
 *.pkl
-*.csv
-*.data
-*.names
 *.model
 *.log
