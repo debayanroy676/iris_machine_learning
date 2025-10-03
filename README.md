@@ -1,4 +1,4 @@
-[](https://archive.ics.uci.edu/static/public/53/Thumbnails/Large.jpg?88)
+[](https://bouqs.com/blog/wp-content/uploads/2021/11/iris-flower-meaning-and-symbolism.jpg)
 # Iris Flower Classification
 The **iris flower classification** is popularly known as the **Hello World!** of Machine Learning.. I used the **Iris dataset** provided by **UCI Machine Learning Repository** 
 [Download Iris dataset](https://archive.ics.uci.edu/static/public/53/iris.zip)
